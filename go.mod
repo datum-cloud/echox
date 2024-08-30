@@ -1,4 +1,4 @@
-module github.com/datumforge/echox
+module github.com/datum-cloud/echox
 
 go 1.22.2
 
