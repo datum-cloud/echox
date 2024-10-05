@@ -3,9 +3,10 @@ module github.com/datum-cloud/echox
 go 1.22.2
 
 require (
+	github.com/datumforge/echox v0.1.2
 	github.com/stretchr/testify v1.9.0
 	github.com/valyala/fasttemplate v1.2.2
-	golang.org/x/time v0.5.0
+	golang.org/x/time v0.7.0
 )
 
 require golang.org/x/text v0.16.0 // indirect
